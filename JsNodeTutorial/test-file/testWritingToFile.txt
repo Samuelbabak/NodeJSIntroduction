@@ -1,0 +1,10 @@
+this text is written by the writeFileSync method inside of unit 10. 
+ Here are the results : This is the first text file this is a test text filethis text is written by the writeFileSync method inside of unit 10. 
+ Here are the results : This is the first text file this is a test text filethis text is written by the writeFileSync method inside of unit 10. 
+ Here are the results : This is the first text file this is a test text filethis text is written by the writeFileSync method inside of unit 10. 
+ Here are the results : This is the first text file this is a test text filethis text is written by the writeFileSync method inside of unit 10. 
+ Here are the results : This is the first text file this is a test text filethis text is written by the writeFileSync method inside of unit 10. 
+ Here are the results : This is the first text file this is a test text filethis text is written by the writeFileSync method inside of unit 10. 
+ Here are the results : This is the first text file this is a test text filethis text is written by the writeFileSync method inside of unit 10. 
+ Here are the results : This is the first text file this is a test text filethis text is written by the writeFileSync method inside of unit 10. 
+ Here are the results : This is the first text file this is a test text file

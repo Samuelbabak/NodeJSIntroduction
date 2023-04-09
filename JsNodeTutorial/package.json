@@ -1,0 +1,23 @@
+{
+  "name": "nodejsintroduction",
+  "version": "1.0.0",
+  "description": "This is my introduction to NodeJS through FreeCodeCamps 8 hour tutorial.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samuelbabak/NodeJSIntroduction.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samuelbabak/NodeJSIntroduction/issues"
+  },
+  "homepage": "https://github.com/Samuelbabak/NodeJSIntroduction#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

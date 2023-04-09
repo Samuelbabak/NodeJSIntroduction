@@ -1,0 +1,3 @@
+This text is written by the writeFile method: the result is 
+File1: This is the first text file
+File2: this is a test text file
